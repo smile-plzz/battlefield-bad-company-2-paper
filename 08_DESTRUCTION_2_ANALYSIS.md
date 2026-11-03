@@ -112,3 +112,4 @@ In *Bad Company 2*, the laws of armed conflict are systematically erased from th
 3. **Ludic Reward for Demolition:** Rather than penalizing wanton destruction, the game actively incentivizes it. In multiplayer, players receive dedicated score awards, medals, and achievement trophies (such as the famous *"Demolition Man"* achievement, awarded for killing 20 enemies via structural collapse).
 
 Destruction 2.0 thus emerges as a dual phenomenon: it is an undeniable milestone in interactive physics and tactical game design, while simultaneously serving as the ultimate realization of militainment’s sanitizing fantasy—a world where the most catastrophic destructive technologies of modern warfare can be deployed without moral consequence, human suffering, or legal restraint.
+

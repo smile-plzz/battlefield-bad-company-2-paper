@@ -90,3 +90,4 @@ As Nick Robinson (2012, 2015) and Matthew Thomas Payne (2016) argue, humor in co
 By incorporating cynicism, profanity, and anti-authoritarian banter, *Bad Company 2* disarms the player’s critical skepticism. The game effectively tells the player: *"We know the government is corrupt. We know the brass are idiots. We know the war is crazy. But look how cool this rocket launcher is!"* 
 
 The comedy creates an aura of self-awareness that immunizes the game against moral critique. The player is granted permission to enjoy the spectacle of explosive imperial violence precisely because the characters are doing so with an ironic smirk. Far from dismantling the military-entertainment complex, *Bad Company 2* perfects it by packaging kinetic warfare as subversive, anti-establishment consumer fun.
+

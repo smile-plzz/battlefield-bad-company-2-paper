@@ -118,3 +118,4 @@ Herein lies the ultimate paradox of the game’s sound design:
 **The more acoustically realistic and sensorially thrilling the violence becomes, the more completely the player is detached from the real-world humanitarian horror of war.**
 
 In actual armed conflict, the sound of artillery and collapsing buildings signifies maiming, death, traumatic brain injury, and civilian terror. In *Bad Company 2*, through the engineering genius of Stefan Strandberg and the HDR system, that same acoustic terror is transformed into pure aesthetic pleasure. The concussive soundscape of modern warfare is commodified into an exhilarating audio-haptic playground, cementing *Bad Company 2* as a masterwork of late-capitalist militainment.
+

@@ -181,3 +181,4 @@ if __name__ == '__main__':
     md_file = os.path.join(base_dir, "12_FULL_RESEARCH_PAPER.md")
     docx_file = os.path.join(base_dir, "manuscript_build.docx")
     build_docx(md_file, docx_file)
+

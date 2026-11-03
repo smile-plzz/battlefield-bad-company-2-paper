@@ -107,3 +107,4 @@ To function as a successful commercial blockbuster in the AAA video game market,
 David Goldfarb and DICE’s comedic writing succeeds brilliantly at "taking the piss out of" the pompous cinematic clichés of *Call of Duty*. It creates an unforgettable, lovable ensemble of working-class soldiers whose fraternal loyalty provides genuine emotional warmth. 
 
 Yet this very comedic brilliance serves to entrench, rather than dismantle, the logic of militainment. By wrapping the brutal mechanics of high-tech imperial warfare in laughter, irreverence, and self-aware irony, *Battlefield: Bad Company 2* does not subvert the military-entertainment complex—it creates its most seductive, pleasurable, and ideologically resilient manifestation.
+

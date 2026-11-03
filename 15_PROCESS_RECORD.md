@@ -92,3 +92,4 @@ This project actively resisted this bias by forcing the manuscript to confront t
 | Process Record | `15_PROCESS_RECORD.md` | Complete | State machine & reflection log |
 | BibTeX Export | `references.bib` | Complete | 34 verified BibTeX entries |
 | Word Document Build | `manuscript_build.docx` | In Build | Compiling via `python-docx` |
+

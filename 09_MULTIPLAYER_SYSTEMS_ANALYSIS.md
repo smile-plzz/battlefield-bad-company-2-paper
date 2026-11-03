@@ -156,3 +156,4 @@ The game's reward systems deliberately cultivate self-sacrifice:
 Through these mechanics, players internalize a profound sense of mutual dependency. The emotional experience of playing *Bad Company 2* with three friends over voice communication closely mimics the sociological dynamics of military cohesion described by military sociologists: loyalty is directed not toward an abstract political state, but toward the immediate comrades responsible for keeping you alive.
 
 However, this intense social pleasure deepens the game's central ideological contradiction. In multiplayer, the catastrophic violence of modern warfare is stripped of its tragic, geopolitical, and human reality. Armed conflict is transformed into an endlessly pleasurable, highly repeatable social team-building exercise—the ultimate triumph of militainment.
+

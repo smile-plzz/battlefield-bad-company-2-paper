@@ -104,3 +104,4 @@ sequenceDiagram
 
 ### The Ideological Function of Military Brotherhood
 In evaluating RQ5 and RQ10, this homosocial fraternity serves an ambivalent cultural function. On one hand, the squad's irreverent banter humanizes soldiers, exposing the tragic gap between elite political agendas and the working-class grunt who must bleed for them. On the other hand, this intense fraternal charm sanitizes the reality of state-sanctioned violence. By focusing the player's emotional investment entirely on the survival and witty banter of four lovable American soldiers, the game systematically marginalizes the human reality of the foreign combatants and foreign civilian populations whose towns and homes B-Company joyfully obliterates.
+
