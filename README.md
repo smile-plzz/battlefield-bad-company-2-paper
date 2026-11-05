@@ -44,3 +44,21 @@ This repository hosts the interdisciplinary academic investigation, analytical m
 
 ## Setup & Execution
 The project is orchestrated using the Academic Research Skills pipeline within the local Python 3.13 environment. Automated document generation outputs formatted Microsoft Word (`.docx`) manuscripts via `python-docx`.
+
+---
+
+## 👤 Author & Contact
+
+**Md. Ismail Hossain**  
+*Technology Professional & AI / Software Systems Researcher*  
+*Professional Masters in Information Technology (PMIT), Institute of Information Technology (IIT), Jahangirnagar University, Dhaka, Bangladesh*  
+*B.Sc. in Computer Science & Engineering*
+
+- 📧 **Email:** [ismailhossain013@gmail.com](mailto:ismailhossain013@gmail.com)
+- 🌐 **Portfolio:** [https://smile-plzz.github.io/Ismail_Hossain/](https://smile-plzz.github.io/Ismail_Hossain/)
+- 🐙 **GitHub:** [@smile-plzz](https://github.com/smile-plzz)
+- 💼 **LinkedIn:** [md-ismail-hossain-2938541b1](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/)
+- 📘 **Facebook:** [optimisticyetpessimist](https://www.facebook.com/optimisticyetpessimist/)
+- 🐦 **X (Twitter):** [@smile_plzzz_](https://x.com/smile_plzzz_)
+- 📍 **Location:** Dhaka, Bangladesh
+

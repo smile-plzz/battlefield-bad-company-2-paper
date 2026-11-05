@@ -1,7 +1,9 @@
 # Research Context & Scope
 
 ## Academic Investigation
-**Title:** War as Entertainment: Military Satire, Squad Identity, Destructive Gameplay, and the Spectacle of Violence in *Battlefield: Bad Company 2*
+**Title:** War as Entertainment: Military Satire, Squad Identity, Destructive Gameplay, and the Spectacle of Violence in *Battlefield: Bad Company 2*  
+**Author:** Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University, Dhaka, Bangladesh)  
+**Contact:** ismailhossain013@gmail.com | [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/) | [GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Facebook](https://www.facebook.com/optimisticyetpessimist/)
 
 ### Research Scope & Boundaries
 - **Primary Game Object:** *Battlefield: Bad Company 2* (2010), developed by EA DICE, published by Electronic Arts. Directed by Patrick Bach; campaign lead designer & writer David Goldfarb; producer Gordon Van Dyke; audio director Stefan Strandberg.

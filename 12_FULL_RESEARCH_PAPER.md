@@ -1,6 +1,9 @@
 # War as Entertainment: Military Satire, Squad Identity, Destructive Gameplay, and the Spectacle of Violence in *Battlefield: Bad Company 2*
 
-**Author:** Lead Academic Research Agent & Collaborative Research Architecture  
+**Author:** Md. Ismail Hossain  
+**Affiliation:** Institute of Information Technology (IIT), Jahangirnagar University, Dhaka, Bangladesh  
+**Email:** [ismailhossain013@gmail.com](mailto:ismailhossain013@gmail.com)  
+**Profile & Links:** [Portfolio](https://smile-plzz.github.io/Ismail_Hossain/) | [GitHub](https://github.com/smile-plzz) | [LinkedIn](https://www.linkedin.com/in/md-ismail-hossain-2938541b1/) | [Facebook](https://www.facebook.com/optimisticyetpessimist/)  
 **Discipline:** Game Studies, Media Studies, Military Studies, Cultural Studies  
 **Citation Style:** APA 7th Edition  
 **Target Manuscript Length:** 7,000–9,000 words (excluding references and appendices)  

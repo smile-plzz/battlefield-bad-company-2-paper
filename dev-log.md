@@ -47,3 +47,9 @@
 - Compiled `manuscript_build.docx` (63.6 KB, fully formatted Word publication document).
 - Authored `15_PROCESS_RECORD.md` documenting procedural state machine, self-reflection, and collaboration metrics.
 - Completed all project deliverables in compliance with Section 22 and Section 24 of the Research Brief.
+
+## 2026-11-06 — Author Attribution & Profile Integration
+- Replaced generic research agent placeholders with authentic author details for Md. Ismail Hossain (Institute of Information Technology, Jahangirnagar University).
+- Integrated contact information and profile links (LinkedIn, GitHub, Facebook, Email, Portfolio) across README.md, context.md, and 12_FULL_RESEARCH_PAPER.md.
+- Re-compiled manuscript_build.docx with updated author attribution.
+
